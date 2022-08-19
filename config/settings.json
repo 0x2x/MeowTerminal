@@ -1,0 +1,5 @@
+{
+  "theme": "default",
+  "cmdline": "in {text.bold}{path}{text.bold.stop} {red.text}@{red.text.stop}>{blue.text}>{blue.text.stop}",
+  "font": ""
+}
